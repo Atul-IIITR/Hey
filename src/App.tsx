@@ -58,7 +58,7 @@ function App() {
           <div className="hero-image">
             <div className="image-container">
               <img
-                src="/src/assets/Screenshot 2026-01-20 233224.png"
+                src="./src/assets/Screenshot 2026-01-20 233224.png"
                 alt="Atul"
               />
             </div>
