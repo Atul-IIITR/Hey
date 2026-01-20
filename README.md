@@ -1,4 +1,73 @@
-# React + TypeScript + Vite
+# Atul's Portfolio
+
+A modern, responsive portfolio website built with React, TypeScript, and Vite featuring a beautiful card-based design.
+
+## 🔗 Live Portfolio
+
+**View the live portfolio here:** https://Atul-IIITR.github.io/Hey/
+
+## 📦 Repository
+
+**GitHub Repository:** https://github.com/Atul-IIITR/Hey
+
+## 🚀 Features
+
+- Modern card-based UI design
+- Fully responsive layout
+- Smooth animations and transitions
+- Experience and project showcases
+- Technical skills section
+- Achievements display
+- Contact information
+- Fast performance with Vite
+
+## 💻 Local Development
+
+To run the portfolio locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/Atul-IIITR/Hey.git
+cd Hey
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+The site will be available at `http://localhost:5173/`
+
+## 🔨 Build
+
+To build for production:
+
+```bash
+npm run build
+npm run preview
+```
+
+## 📋 Project Structure
+
+```
+src/
+├── App.tsx          - Main component
+├── App.css          - Styles
+├── main.tsx         - Entry point
+├── index.css        - Global styles
+└── assets/          - Images and assets
+```
+
+## 🛠 Technologies
+
+- React 19.2.0
+- TypeScript 5.9.3
+- Vite (rolldown-vite)
+- CSS3
+- GitHub Pages (Deployment)
+
+## 📝 React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
