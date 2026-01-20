@@ -1,4 +1,5 @@
 import "./App.css";
+import atulImage from "./assets/atul.png";
 
 function App() {
   return (
@@ -57,10 +58,7 @@ function App() {
           </div>
           <div className="hero-image">
             <div className="image-container">
-              <img
-                src="./src/assets/Screenshot 2026-01-20 233224.png"
-                alt="Atul"
-              />
+              <img src={atulImage} alt="Atul" />
             </div>
           </div>
         </div>
